@@ -1,0 +1,13 @@
+{
+  "name": "whilter1",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "lerna": "^5.4.0",
+    "nx": "14.5.4",
+    "@nrwl/nx-cloud": "latest"
+  }
+}

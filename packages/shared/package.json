@@ -1,0 +1,15 @@
+{
+  "name": "@videoeditor/shared",
+  "version": "1.0.0",
+  "description": "VideoEditor Shared",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "/shared"
+  },
+  "author": "",
+  "license": "MIT"
+}
